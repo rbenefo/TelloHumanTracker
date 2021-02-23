@@ -17,4 +17,4 @@ Tensorflow Object Detection API
 - To install, see this [link](https://www.analyticsvidhya.com/blog/2020/04/build-your-own-object-detection-model-using-tensorflow-api/).
 
 DamiFuente's DJITelloPy Python API
-- All you really need is the tello.py file linked [here](https://github.com/damiafuentes/DJITelloPy/blob/master/djitellopy/tello.py)
+- Grab the tello.py file linked [here](https://github.com/damiafuentes/DJITelloPy/blob/master/djitellopy/tello.py).
